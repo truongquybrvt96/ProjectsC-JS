@@ -1,0 +1,18 @@
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\Auto_Listia.exe.config
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\Auto_Listia.exe
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\Auto_Listia.pdb
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\HtmlAgilityPack.dll
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\WebDriver.dll
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\WebDriver.Support.dll
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\HtmlAgilityPack.pdb
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\HtmlAgilityPack.xml
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\WebDriver.xml
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\bin\Release\WebDriver.Support.xml
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\obj\Release\Auto_Listia.Form_dang_nhap.resources
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\obj\Release\Auto_Listia.Properties.Resources.resources
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\obj\Release\Auto_Listia.csproj.GenerateResource.Cache
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\obj\Release\Auto_Listia.exe
+C:\Users\X-PC\Desktop\Auto_Listia\Auto_Listia\obj\Release\Auto_Listia.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Auto_Listia\Auto_Listia\bin\Release\Auto_Listia.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Auto_Listia\Auto_Listia\obj\Release\Auto_Listia.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Auto_Listia\Auto_Listia\obj\Release\Auto_Listia.pdb

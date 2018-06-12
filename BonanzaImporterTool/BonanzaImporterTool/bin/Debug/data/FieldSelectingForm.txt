@@ -1,0 +1,6 @@
+desStart:true
+conditionStatus:New
+moreTraits:
+worldwideFlatRate:10
+replaceZeroQtt:2
+traits:chkID chkTitle chkdescription chkprice chkimages chkcategory chkbooth_category chkshipping_price chkshipping_type chkshipping_service chkshipping_lbs chkshipping_oz chkshipping_carrier chkshipping_package chksku chkworldwide_shipping_price chkworldwide_shipping_type chkworldwide_shipping_carrier chkquantity chktrait chkforce_update 
