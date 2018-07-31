@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: d4f4269a04b66a04b963fe8a0b005402
+timeCreated: 1475764682
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skeleton_character_sheet_0
+    21300002: head_nghiemtuc
+    21300004: head_cuoi
+    21300006: head_buon
+    21300008: longmay
+    21300010: Mat
+    21300012: rau
+    21300014: x
+    21300016: than
+    21300018: taytrai
+    21300020: tayphai
+    21300022: tayngang
+    21300024: non
+    21300026: chantrai
+    21300028: chanphai
+    21300030: bantaytrai
+    21300032: bantayphai
+    21300034: tayxuongduoi
+    21300036: banchantrai
+    21300038: banchanphai
+    21300040: DauNghiemTuc
+    21300042: DauCuoi
+    21300044: DauBuon
+    21300046: ChanMay
+    21300048: ChanMayMong
+    21300050: X
+    21300052: Than
+    21300054: L_Tay
+    21300056: R_Tay
+    21300058: R_TayDam
+    21300060: L_TayDam
+    21300062: Mu
+    21300064: L_Chan
+    21300066: R_Chan
+    21300068: L_BanTay
+    21300070: R_BanTay
+    21300072: TayDamXuong
+    21300074: L_TayChong
+    21300076: R_TayChong
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Skeleton_character_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 272
+        width: 234
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DauNghiemTuc
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 392
+        width: 122
+        height: 123
+      alignment: 9
+      pivot: {x: .519508004, y: .200079441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DauCuoi
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 384
+        width: 123
+        height: 131
+      alignment: 9
+      pivot: {x: .519349158, y: .254731387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DauBuon
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 393
+        width: 122
+        height: 122
+      alignment: 9
+      pivot: {x: .490245372, y: .236637801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChanMay
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 486
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mat
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 460
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChanMayMong
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 431
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 389
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Than
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 259
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_Tay
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 284
+        width: 77
+        height: 85
+      alignment: 9
+      pivot: {x: .51545459, y: .822001755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Tay
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 284
+        width: 76
+        height: 85
+      alignment: 9
+      pivot: {x: .515657902, y: .836002111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_TayDam
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 272
+        width: 51
+        height: 43
+      alignment: 9
+      pivot: {x: .243331611, y: .472324818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_TayDam
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 272
+        width: 51
+        height: 44
+      alignment: 9
+      pivot: {x: .28999719, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mu
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 153
+        width: 161
+        height: 89
+      alignment: 9
+      pivot: {x: .492608488, y: .232582688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_Chan
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 157
+        width: 62
+        height: 71
+      alignment: 9
+      pivot: {x: .461612821, y: .784931004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Chan
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 157
+        width: 61
+        height: 71
+      alignment: 9
+      pivot: {x: .441475302, y: .784931004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_BanTay
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 213
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: .475714236, y: .774616539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_BanTay
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 213
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: .499998748, y: .705962241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TayDamXuong
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 195
+        width: 51
+        height: 49
+      alignment: 9
+      pivot: {x: .429999858, y: .742858589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_TayChong
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 153
+        width: 79
+        height: 41
+      alignment: 9
+      pivot: {x: .274049401, y: .703172266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_TayChong
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 156
+        width: 79
+        height: 37
+      alignment: 9
+      pivot: {x: .319239348, y: .660811961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
